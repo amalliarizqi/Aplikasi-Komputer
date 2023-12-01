@@ -11,6 +11,10 @@ Berikut hasil tugas saya:
 
 [PDF Gabungan](https://github.com/amalliarizqi/Aplikas-komputer_Rizqi-Amallia/files/13522810/Rizqi_Amallia_Rahma_Dani_22305141035.pdf)
 
+🔮 File tugas EMT
+
+[File EMT](https://github.com/amalliarizqi/Aplikasi-Komputer/files/13524459/EMT_Rizqi.Amallia_22305141035.zip)
+
 🔮 File tugas EMT yang sudah diexsak dalam bentuk LaTex(.Tex)
 
 [File LaTex](https://github.com/amalliarizqi/Aplikasi-Komputer/files/13524237/LaTeX_Rizqi.Amallia_22305141035.zip)
